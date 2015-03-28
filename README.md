@@ -1,12 +1,13 @@
 # Android-Cloud-TagView-Plus
 
->Preview
 ![image](https://raw.githubusercontent.com/kidhaibara/Android-Cloud-TagView-Plus/master/raw/tagview_screenshot.png)
 
 ![image](https://raw.githubusercontent.com/kidhaibara/Android-Cloud-TagView-Plus/master/raw/Screenshot_2015-03-27-16-35-42.png)
 
 
+
 >An Android Cloud Tag Widget. You can edit the tag's style, and set listener of selecting or deleting tag. Used in APP with ten millions of users. 
+
 
 
 >Attribute
@@ -15,6 +16,7 @@
 - Editable Style of Tag, Click and Radius effect, Delete mode.
 - Listener of tag selecting and deleting.
 - Can be used from XML file or Java code.
+
 
 
 >To-Do List
