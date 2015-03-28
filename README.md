@@ -4,11 +4,7 @@
 
 ![image](https://raw.githubusercontent.com/kidhaibara/Android-Cloud-TagView-Plus/master/raw/Screenshot_2015-03-27-16-35-42.png)
 
-
-
->An Android Cloud Tag Widget. You can edit the tag's style, and set listener of selecting or deleting tag. Used in APP with ten millions of users. 
-
-
+An Android Cloud Tag Widget. You can edit the tag's style, and set listener of selecting or deleting tag. Used in APP with ten millions of users. 
 
 >Attribute
 
@@ -17,14 +13,10 @@
 - Listener of tag selecting and deleting.
 - Can be used from XML file or Java code.
 
-
-
 >To-Do List
 
 - Animation
 - Gradle, Maven
-
-
 
 >Substitute
 
@@ -32,8 +24,7 @@
 - https://github.com/mcharmas/android-tagview
 
 
-
->Android上的云标签控件，除了能设置标签的样式外，还能监听标签的点击和删除事件。目前已在千万级用户的应用上使用。
+Android上的云标签控件，除了能设置标签的样式外，还能监听标签的点击和删除事件。目前已在千万级用户的应用上使用。
 
 >特点
 
