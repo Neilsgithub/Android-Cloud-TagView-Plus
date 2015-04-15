@@ -23,7 +23,8 @@ An Android Cloud Tag Widget. You can edit the tag's style, and set listener of s
 - https://github.com/namito/TagCloudLinkView
 - https://github.com/mcharmas/android-tagview
 
-
+中文
+====
 Android上的云标签控件，除了能设置标签的样式外，还能监听标签的点击和删除事件。目前已在千万级用户的应用上使用。
 
 >特点
@@ -43,4 +44,20 @@ Android上的云标签控件，除了能设置标签的样式外，还能监听�
 - https://github.com/namito/TagCloudLinkView
 - https://github.com/mcharmas/android-tagview
 
+
+License
+=======
+
+    Copyright 2014 Kaede Akatsuki
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
 
